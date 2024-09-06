@@ -1,3 +1,7 @@
+'''
+It will save the addresses of the directory structure and the files within it, along with their sizes in MB, to a CSV file, except for folders whose names contain _[sys]_.
+'''
+
 import os
 import csv
 
